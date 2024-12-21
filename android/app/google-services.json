@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696327523835",
+    "project_id": "nairobi-vacant-houses-c0a6a",
+    "storage_bucket": "nairobi-vacant-houses-c0a6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696327523835:android:9684b5cccc418e4cc9cf5e",
+        "android_client_info": {
+          "package_name": "com.example.nairobivacanthouses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZhGUHDrjWZqG0KX3nurcNAYig9hf0UWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
